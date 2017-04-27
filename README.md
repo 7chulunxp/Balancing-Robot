@@ -1,2 +1,2 @@
 # Balancing-Robot
-This project about balancing robot by arduino
+This project about balancing robot and program by arduino.
